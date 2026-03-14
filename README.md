@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Bank Loan Report Banner](images/dashboard_overview.png)
+![Bank Loan Report Banner](https://github.com/Abhisek7602/Bank_Loan_Report_Analysis/blob/main/bank%20image.jpg)
 
 This project is an end-to-end **Bank Loan Analysis Dashboard** built entirely in Microsoft Excel. It transforms raw financial loan data into a fully interactive, multi-page reporting suite — covering portfolio KPIs, good vs bad loan segmentation, and dimensional breakdowns — giving stakeholders a clear picture of lending performance without any external BI tool.
 
@@ -13,14 +13,14 @@ This project is an end-to-end **Bank Loan Analysis Dashboard** built entirely in
 ### 📋 Summary Dashboard
 > Portfolio health at a glance — Good Loan vs Bad Loan breakdown, loan status table, and MTD/MOM KPI cards.
 
-![Bank Loan Report - Summary](images/dashboard_summary.png)
+![Bank Loan Report - Summary](https://github.com/Abhisek7602/Bank_Loan_Report_Analysis/blob/main/Screenshot%202026-03-15%20014901.png)
 
 ---
 
 ### 🗺️ Overview Dashboard
 > Dimensional analysis — Applications by month, US state, employment length, purpose, term, and home ownership.
 
-![Bank Loan Report - Overview](images/dashboard_overview.png)
+![Bank Loan Report - Overview](https://github.com/Abhisek7602/Bank_Loan_Report_Analysis/blob/main/Screenshot%202026-03-15%20014840.png)
 
 ---
 
